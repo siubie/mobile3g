@@ -1,0 +1,1 @@
+1. Download Android Studio beserta sdk dan virtual devicenya
