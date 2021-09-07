@@ -8,4 +8,4 @@
 2. cara menggunakan font external
 3. cara menggunakan gambar external
 4. cara styling component
-5. 
+5. cara pengaturan penamaan variable strings dan colors
